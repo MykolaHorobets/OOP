@@ -1,0 +1,34 @@
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\zest0\Desktop\ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zest0\Desktop\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CopyComplete
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\micro\Desktop\Курсова ООП\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
